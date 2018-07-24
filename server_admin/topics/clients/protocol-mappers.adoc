@@ -3,7 +3,7 @@
 === OIDC Token and SAML Assertion Mappings
 
 Applications that receive ID Tokens, Access Tokens, or SAML assertions may need or want different user metadata and roles.
-{project_name} allows you to define what exactly is transferred.
+${project_name} allows you to define what exactly is transferred.
 You can hardcode roles, claims and custom attributes.
 You can pull user metadata into a token or assertion.
 You can rename roles.
